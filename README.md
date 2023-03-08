@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Jess, Yan Tung Lam.
+### Hi there 👋 , it's Jess here.
+I'm currently pursuing an MSc in Computing at Cardiff University, building on my background in BS.S.C Sociology from the Chinese University of Hong Kong. As a career switcher to tech, I'm excited to constantly learn and expand my skill set. I'm passionate about leveraging technology to make a positive impact and always striving to create meaningful solutions. Let's connect and collaborate!
 
 <!--
 **littlepinky822/littlepinky822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
